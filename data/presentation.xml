@@ -1,0 +1,263 @@
+<document>
+  
+  <page>
+
+    
+    <item col="3" row="0" colSpan="6" rowSpan="6">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="[TL;DR]">
+	<markdown>
+	  [37m [0m &#10;Hallo, ich bin Kati.&#10;&#10;Ich bin Programmiererin, Hardware-Hexe, Bug-Killerin, Tech-Bloggerin und Linux Nerd.&#10;&#10;Was ihr hier vor euch habt, ist eine Übersicht meiner Lieblingsprojekte. Außerdem auf welchen Konferenzen und Hackathons man mich antrifft. Falls ihr mehr erfahren wollt, könnt ihr euch alle Slides mit&#10;&#10;*p=0; while true; do curl tty.zone/$((p++))\?cols=$((COLUMNS)); read; done*&#10;&#10;ansehen. (Am besten im Vollbild-Modus)&#10;&#10;Viel Spaß!&#10;&#10;
+	</markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="3" row="6" colSpan="6" rowSpan="3">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Kontaktinformationen">
+	<markdown>
+	  [37m [0m &#10;Email:      k.dietzsch@posteo.de&#10;&#10;GitHub:     https://github.com/bitshiftcrazy&#10;&#10;Blog:       https://bitshiftcrazy.com&#10;&#10;Instagram:  https://www.instagram.com/miss.molerat
+	</markdown>
+      </markdown>
+    </item>
+    
+  </page>
+
+  <page>
+
+    
+    <item col="0" row="1" colSpan="5" rowSpan="4">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Linux auf Kindle">
+	<markdown>
+	  [37m [0m &#10;Mein alter Schul-Taschenrechner lag traurig in einer Ecke herum. Also habe ich kurzerhand Linux darauf installiert. "Kurzerhand" meint hier ca. 3 Tage lang Kernel-Module anpassen, neu kompilieren, wieder anpassen. Und "installieren" stundenlanges Cross Compiling und Spaß mit qemu. Danach lief Gentoo Linux auf dem Taschenrechner, inklusive Programmen wie Emacs und dem Commandline Browser Links. Seitdem liegt der Taschenrechner wieder in einer Ecke.
+	</markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="2.5" row="5" colSpan="5" rowSpan="3">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray"> 
+	<markdown>
+
+	  [37m [0m &#10; Linux            [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m &#10; Shell            [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m &#10; Cross Compiling  [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; C                [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m 
+        </markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="5" row="1" colSpan="5" rowSpan="4">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Linux auf TI-NSPIRE"> 
+	<markdown>
+	  [37m [0m &#10;Auch mein alter Kindle lag traurig in einer Ecke herum. Deswegen bekam auch der Kindle Linux. Im Prinzip das gleiche Vorgehen wie beim Taschenrechner, mit dem Unterschied, dass der Kindle Platz für das gesamte Filesystem hat und sogar X11 packt! (Theoretisch sogar komplette Desktop Environments wie XFCE, aber ich bin kein Fan von Desktop Environments). Ein kleines Manko ist die Refresh Rate bei e-Ink Displays. Aber als tragbares Linux Tablet für Notizen liegt der Kindle nicht mehr ganz so oft in einer Ecke.
+	</markdown>
+      </markdown>
+    </item>
+    
+  </page>
+
+  <page>
+
+    
+    <item col="0" row="1" colSpan="5" rowSpan="5">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="PinkPad">
+	<markdown>
+	  [37m [0m &#10;Weil ich schon immer einen Mini-Laptop wollte und &#10;existierende Varianten etwas teuer sind, habe ich mir einfach selbst einen gebastelt. Das PinkPad besteht zum größten Teil aus einem pinken Spielzeuglaptop. Ein Waveshare Touch-Display, ein kleines Keyboard, ein Raspberry Pi Zero als Herzstück und mehrere 3D-gedruckte Zusatzteile machen daraus einen voll funktionsfähigen, winzigen Laptop. Ausgestattet mit all meinen &#10;Lieblingsprogrammen wie Emacs, xmonad etc. sorgt das PinkPad immer für Gesprächsstoff auf Hackathons und Kongressen. 
+	</markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="0" row="6" colSpan="5" rowSpan="3">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray"> 
+	<markdown>
+
+	  [37m [0m &#10; Linux            [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m &#10; Shell            [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; Raspberry Pi     [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m &#10; 3D-Druck         [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m 
+        </markdown>
+      </markdown>
+    </item>    
+
+    
+    <item col="5" row="1" colSpan="5" rowSpan="5">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Halo Energy Sword">
+	<markdown>
+	  [37m [0m &#10;Eine abgewandelte Version eines Projekts von Adafruit, bei dem ich ein Energy Sword aus dem Videospiel Halo nachgebaut habe. Das Gehäuse ist 3D gedruckt, zwei Neopixel Strips sorgen dafür, dass das Schwert genau wie im Spiel leuchtet. Gesteuert wird das Schwert von einem Feather BLE 32u4 Mikrocontroller. Farben oder Farbeffekte lassen sich via Bluetooth mit einer Android App ändern.
+	</markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="5" row="6" colSpan="5" rowSpan="3">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray"> 
+	<markdown>
+
+	  [37m [0m &#10; Mikrocontroller         [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; Elektronik              [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m &#10; C                       [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m &#10; 3D-Druck                [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m 
+        </markdown>
+      </markdown>
+    </item>  
+
+    
+  </page>
+  
+  <page>
+
+    
+    <item col="0" row="1" colSpan="5" rowSpan="4">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Raspberry Pi eInk Dashboard">
+	<markdown>
+	  [37m [0m &#10;Mithilfe verschiedener APIs - wie z.B. der Twitter-API, GitHub-API und der Dad Jokes API - werden Informationen zusammengetragen und auf einem Waveshare eInk Display ausgegeben.
+	</markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="0" row="5" colSpan="5" rowSpan="3">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray"> 
+	<markdown>
+
+	  [37m [0m &#10; Python            [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; APIs              [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; Elektronik        [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; Raspberry Pi      [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m 
+        </markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="5" row="1" colSpan="5" rowSpan="4">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Pflanzen Survival Kit">
+	<markdown>
+	  [37m [0m &#10;Ich liebe Pflanzen, habe aber leider keinen grünen Daumen. Deswegen habe ich mit einem Raspberry Pi für Abhilfe gesorgt: ein Bodenfeuchtsensor misst die Feuchtigkeit. Wenn die Erde zu trocken wird, springt eine peristaltische Pumpe an und bewässert die Pflanze. Ein Licht-Sensor kontrolliert die Lichtverhältnisse. Die Daten werden an ein mit Python Dash erstelltes Web-Dashboard übermittelt, sodass sie auch unterwegs jederzeit abrufbar sind.
+	</markdown>
+      </markdown>
+    </item>
+    
+    
+    <item col="5" row="5" colSpan="5" rowSpan="3">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray"> 
+	<markdown>
+
+	  [37m [0m &#10; Raspberry Pi         [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; Python               [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m &#10; Sensoren             [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; Elektronik           [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m 
+        </markdown>
+      </markdown>
+    </item>
+    
+  </page>
+  
+  <page>
+
+    
+    <item col="0" row="1" colSpan="5" rowSpan="4">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Emacs DnD Mode">
+	<markdown>
+	  [37m [0m &#10;Durch die Pandemie war alles plötzlich online. Mit Emacs kein Problem: mein Dungeons and Dragons Mode hilft mir dabei, meine Kampagnen zu planen, Regelwerke schnell und geordnet griffbereit zu haben, automatisch Character Sheets zu erstellen, während Sessions Kämpfe zu tracken und natürlich auch zu würfeln. Eben alles, was man für Pen and Paper ohne Pen and Paper braucht.
+	</markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="0" row="5" colSpan="5" rowSpan="3">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray"> 
+	<markdown>
+
+	  [37m [0m &#10; Lisp/Elisp       [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m &#10; Emacs            [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m &#10; org-mode         [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m
+        </markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="5" row="1" colSpan="5" rowSpan="4">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Arch Linux Badge">
+	<markdown>
+	  [37m [0m &#10;Mein bisher anspruchsvollster PCB-Badge. Nicht, weil die Technologie so komplex wäre. Technisch steuert einfach nur ein ATtiny84 Mikrocontroller 30 durch Charlieplexing verbundene LEDs. Die Schwierigkeit bestand im Erstellen des Artworks für diesen Badge. Und darin, Bauteile so anzuordnen, dass das elktronische Design das künstlerische nicht stört.
+	</markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="5" row="5" colSpan="5" rowSpan="3">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray"> 
+	<markdown>
+
+	  [37m [0m &#10; KiCAD              [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m &#10; Mikrocontroller    [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; C                  [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m &#10; Elektronik         [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m 
+        </markdown>
+      </markdown>
+    </item>  
+    
+  </page>
+  
+  <page>
+
+    
+    <item col="0" row="1" colSpan="5" rowSpan="4">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Meine Website">
+	<markdown>
+	  [37m [0m &#10;Weil ich kein großer Fan von HTML und CSS bin, wird das Gerüst für meine Website mit org-mode generiert. Damit das genau so geschieht, wie ich mir das vorstelle, habe ich mir verschiedene Elisp-Funktionen geschrieben. So kann ich mit einer Tastenkombi meine Website erstellen, ohne mich mit HTML quälen zu müssen.
+	</markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="0" row="5" colSpan="5" rowSpan="3">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray"> 
+	<markdown>
+
+	  [37m [0m &#10; Lisp/Elisp         [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; Emacs              [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m &#10; org-mode           [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m &#10; HTML/CSS           [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m 
+        </markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="5" row="1" colSpan="5" rowSpan="4">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Linux Cookies">
+	<markdown>
+	  [37m [0m &#10;Ein kleines Scherzprojekt für Weihnachten: als Linux Nerd brauchte ich natürlich unbedingt Linux-Plätzchen. Also habe ich dafür 3D-Förmchen entworfen und gedruckt. Damit beim Backen nichts schief geht, habe ich außerdem detaillierte Installationsanweisungen für verschiedene Distributionen geschrieben. Inklusive Plätzchen-Quellcode in C ;).
+	</markdown>
+      </markdown>
+    </item>
+
+    
+    <item col="5" row="5" colSpan="5" rowSpan="3">
+      <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray"> 
+	<markdown>
+
+	  [37m [0m &#10; Linux           [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; C               [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; 3D-Druck        [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m[37m■ [0m[37m■ [0m &#10; Backen          [32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[32m■ [0m[37m■ [0m 
+        </markdown>
+      </markdown>
+    </item>
+    
+  </page>
+
+  <page>
+
+    
+    <item col="0" row="2" colSpan="10" rowSpan="3" >
+      <table border-type="line" border-fg="gray" columnSpacing="4" columnWidth="12,11,65" data-headers="Datum, Name, Lieblingsvortrag" fg="white" height="30%" interactive="false" keys="False" label="Kürzlich besuchte Konferenzen" width="20%" selectedBg="None" selectedFg="None" >
+	<data-data>
+	  [2021], Web Summit, *coming soon*
+	  [2020], rC3, Hacking the Nintendo Game and Watch
+	  [2019], 36C3, Open Source is Insufficient to Solve Trust Problems in Hardware 
+	  [2018], 35C3, The Rocky Road to TLS 1.3 and better Internet Encryption 
+        </data-data>
+      </table>
+    </item>
+
+    
+    <item col="0" row="5" colSpan="10" rowSpan="2" >
+      <table border-type="line" border-fg="gray" columnSpacing="4" columnWidth="12,40,65" data-headers="Datum, Name, Projekt" fg="white" height="30%" interactive="false" keys="False" label="Hackathons" width="20%" selectedBg="None" selectedFg="None" >
+	<data-data>
+	  [2019], Science Hack Day Berlin, Preis für (den Versuch) einer Jetson Nano Dashcam
+	  [2015], Science Hack Day Berlin, Best Hardware Hack für DIY PCR Thermocycler
+	  [2014], Science Hack Day Berlin, Popcorn Decay
+	</data-data>
+      </table>
+    </item>
+
+    
+    <item col="0" row="7" colSpan="10" rowSpan="2" >
+      <table border-type="line" border-fg="gray" columnSpacing="4" columnWidth="12,40,65" data-headers="Datum, Uni, Kurs" fg="white" height="30%" interactive="false" keys="False" label="Sommeruni" width="20%" selectedBg="None" selectedFg="None" >
+	<data-data>
+	  [2019], Ingenieurinnen Sommeruniversität Bremen, Intensiv-Kurs über Linux-Security
+	</data-data>
+      </table>
+    </item>
+
+    
+  </page>
+  
+</document>

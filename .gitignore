@@ -1,0 +1,7 @@
+p.js
+node_modules
+p.txt
+*.pyc
+*.swp
+log
+.ropeproject
