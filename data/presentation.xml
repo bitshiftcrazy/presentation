@@ -6,7 +6,7 @@
     <item col="3" row="0" colSpan="6" rowSpan="6">
       <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="[TL;DR]">
 	<markdown>
-	  [37m [0m &#10;Hallo, ich bin Kati.&#10;&#10;Ich bin Programmiererin, Hardware-Hexe, Bug-Killerin, Tech-Bloggerin und Linux Nerd.&#10;&#10;Was ihr hier vor euch habt, ist eine Übersicht meiner Lieblingsprojekte. Außerdem auf welchen Konferenzen und Hackathons man mich antrifft. Falls ihr mehr erfahren wollt, könnt ihr euch alle Slides mit&#10;&#10;p=1; while [ $p -lt 6 ]; do curl -N https://presentation-psy2b.ondigitalocean.app/$((p++)); read; done ; read; done*&#10;&#10;ansehen. (Am besten im Vollbild-Modus)&#10;&#10;Viel Spaß!&#10;&#10;
+	  [37m [0m &#10;Hallo, ich bin Kati.&#10;&#10;Ich bin Programmiererin, Hardware-Hexe, Bug-Killerin, Tech-Bloggerin und Linux Nerd.&#10;&#10;Was ihr hier vor euch habt, ist eine Übersicht meiner Lieblingsprojekte. Außerdem auf welchen Konferenzen und Hackathons man mich antrifft. Falls ihr mehr erfahren wollt, könnt ihr euch alle Slides mit&#10;&#10;p=1; while [ $p -lt 7 ]; do curl -N https://presentation-psy2b.ondigitalocean.app/$((p++)); read; done&#10;&#10;ansehen. (Am besten im Vollbild-Modus)&#10;&#10;Viel Spaß!&#10;&#10;
 	</markdown>
       </markdown>
     </item>
