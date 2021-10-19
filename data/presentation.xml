@@ -3,16 +3,16 @@
   <page>
 
     
-    <item col="0" row="0" colSpan="6" rowSpan="6">
+    <item col="0" row="0" colSpan="7" rowSpan="6">
       <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="[TL;DR]">
 	<markdown>
-	  [37m [0m &#10;Hallo, ich bin Kati.&#10;&#10;Ich bin Programmiererin, Hardware-Hexe, Bug-Killerin, Tech-Bloggerin und Linux Nerd.&#10;&#10;Was ihr hier vor euch habt, ist eine Übersicht meiner Lieblingsprojekte. Außerdem auf welchen Konferenzen und Hackathons man mich antrifft. Falls ihr mehr erfahren wollt, könnt ihr euch alle Slides mit&#10;&#10;p=1; while [ $p -lt 7 ]; do curl -N https://presentation-psy2b.ondigitalocean.app/$((p++)); read; done&#10;&#10;ansehen. (Am besten im Vollbild-Modus)&#10;&#10;Viel Spaß!&#10;&#10;
+	  [37m [0m &#10;Hallo, ich bin Kati.&#10;&#10;Ich bin Programmiererin, Hardware-Hexe, Bug-Killerin, Tech-Bloggerin und Linux Nerd.&#10;&#10;Was ihr hier vor euch habt, ist eine Übersicht meiner Lieblingsprojekte. Außerdem auf welchen Konferenzen und Hackathons man mich antrifft. Falls ihr mehr erfahren wollt, könnt ihr euch alle Slides mit&#10;&#10;*p=1; while [ $p -lt 7 ]; do curl -N https://bitshiftcrazy.de/$((p++)); read; done*&#10;&#10;ansehen. (Am besten im Vollbild-Modus)&#10;&#10;Viel Spaß!&#10;&#10;
 	</markdown>
       </markdown>
     </item>
 
     
-    <item col="0" row="6" colSpan="6" rowSpan="3">
+    <item col="0" row="6" colSpan="7" rowSpan="3">
       <markdown style-paragraph="chalk.white" style-strong="chalk.cyan.underline" style-em="chalk.green" border-type="line" border-fg="gray" label="Kontaktinformationen">
 	<markdown>
 	  [37m [0m &#10;Email:      k.dietzsch@posteo.de&#10;&#10;GitHub:     https://github.com/bitshiftcrazy&#10;&#10;Blog:       https://bitshiftcrazy.com&#10;&#10;Instagram:  https://www.instagram.com/miss.molerat
